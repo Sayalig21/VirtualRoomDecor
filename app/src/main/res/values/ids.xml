@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sign_up_screen" type="id"></item>
+    <item name="Username" type="id"></item>
+    <item name="email" type="id"></item>
+    <item name="phoneNo" type="id"></item>
+</resources>
